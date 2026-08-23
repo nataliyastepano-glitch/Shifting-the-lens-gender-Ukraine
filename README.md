@@ -39,6 +39,8 @@ _Історія про горизонтальну сегрегацію в біз
 
 [Аналіз колеги,](https://github.com/VoroshylovV/enterprises-analysis-ua) Ворошилова В., який люб'язно надав мені очищений датасет
 
+[Моя візуалізація в Tableau Public](https://public.tableau.com/app/profile/.26867958/viz/Genderpolitik/Sheet3)
+
 [Інфографіка від "Слово і Діло", 2021](https://www.slovoidilo.ua/2021/08/23/infografika/polityka/30-rokiv-nezalezhnosti-yak-zminyuvavsya-hendernyj-sklad-verxovnoyi-rady)
 
 [Чи стане Парламент прикладом для покоління рівності?](https://www.rada.gov.ua/print/198765.html)
